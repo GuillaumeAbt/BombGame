@@ -1,5 +1,5 @@
 # BombGame
-Android game developped with LibGDX, mario64 mini game like 
+Android game developped with LibGDX, mario64 DS mini game like 
 
 Warning, the code can be outdated !
 
